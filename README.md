@@ -13,3 +13,4 @@ A ROS 2 Humble based edge detection mobile robot simulation workspace.
 colcon build
 source install/setup.bash
 ros2 launch bot_bringup simulated_robot.launch.py
+ros2 run bot_script edge_detection 
