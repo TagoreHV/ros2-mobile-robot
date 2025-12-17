@@ -1,6 +1,6 @@
 # ROS 2 Mobile Robot Simulation
 
-A ROS 2 Humble based mobile robot simulation workspace.
+A ROS 2 Humble based edge detection mobile robot simulation workspace.
 
 ## Packages
 - bot_bringup
